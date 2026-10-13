@@ -1,0 +1,1 @@
+Testing Jira automation for JGAL-3
